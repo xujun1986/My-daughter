@@ -1,6 +1,14 @@
 @import "bootstrap-compass";
 @import "bootstrap-variables";
 @import "bootstrap";
+
+@font-face {
+    font-family: 'MicroHei';
+    src: url(../fonts/wqymicrohei.ttf);
+}
+
 body{
+	font-family: MicroHei;
 	background: url(../images/symphony.png) repeat;
 }
+
