@@ -1,26 +1,20 @@
+@import "compass/reset";
 @import "bootstrap-compass";
 @import "bootstrap-variables";
 @import "bootstrap";
+@import "compass/support";
+@import "compass/utilities";
+@import "compass/css3";
 
-@font-face {
-    font-family: 'MicroHei';
-    src: url(../fonts/wqymicrohei.ttf);
+@include font-face("MicroHei", font-files("wqymicrohei.ttf"));
+
+body {
+    font-family: MicroHei;
+    background: url(../images/symphony.png) repeat;
 }
 
-body{
-	font-family: MicroHei;
-	background: url(../images/symphony.png) repeat;
-}
-
-
-
-.list-group{
-	p{
-		position: relative;
-		display: none;
-		padding: 10px 15px;
-		margin-bottom: -1px;
-		background-color: #fff;
-		border: 1px solid #ddd;
-	}
+.list-group {
+    p {
+        @extend .list-group-item;
+    }
 }
