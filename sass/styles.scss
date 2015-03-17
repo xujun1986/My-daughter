@@ -11,10 +11,16 @@
 body {
     font-family: MicroHei;
     background: url(../images/symphony.png) repeat;
+    color: black;
 }
 
 .list-group {
     p {
         @extend .list-group-item;
     }
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
 }
