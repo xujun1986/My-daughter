@@ -42,49 +42,24 @@
 		<div class="container">
 			<h1 class="text-center">吾儿徐宁</h1>
 			<h5>梦幻木马</h5>
-			<div id="image_slide" class="carousel slide" data-ride="carousel">
-			     <ol class="carousel-indicators">
-			         <li data-target="#image_slide" data-slide-to="0" class=""></li>
-			         <li data-target="#image_slide" data-slide-to="1" class=""></li>
-			         <li data-target="#image_slide" data-slide-to="2" class=""></li>
-			         <li data-target="#image_slide" data-slide-to="3" class="active"></li>
-			     </ol>
-			     <div class="carousel-inner">
-			         <div class="item">
-			             <img src="images/4.jpg" alt="小蜗牛" width="960" height="640">
-			             <div class="container">
-			                 <div class="carousel-caption">
-			                     <h4>我要一步一步往上爬. 等待阳光静静看着它的脸————《蜗牛》</h4>
-			                 </div>
-			             </div>
-			         </div>
-			         <div class="item">
-			             <img src="images/3.jpg" alt="小脚丫" width="960" height="640">
-			             <div class="container">
-			                 <div class="carousel-caption">
-			                     <h4>记忆中的小脚丫，肉嘟嘟的小嘴巴————《时间都去哪儿了》</h4>
-			                 </div>
-			             </div>
-			         </div>
-			         <div class="item">
-			             <img src="images/2.jpg" alt="温柔眼睛" width="960" height="640">
-			             <div class="container">
-			                 <div class="carousel-caption">
-			                     <h4>她有双温柔的眼睛，她悄悄带走我的心————《小薇》</h4>
-			                 </div>
-			             </div>
-			         </div>
-			         <div class="item active">
-			             <img src="images/1.jpg" alt="笑声迷人" width="960" height="640">
-			             <div class="container">
-			                 <div class="carousel-caption">
-			                     <h4>那双眼动人，笑声更迷人————《喜欢你》</h4>
-			                 </div>
-			             </div>
-			         </div>
-			     </div>
-			    	<a class="left carousel-control" href="#image_slide" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-			     <a class="right carousel-control" href="#image_slide" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+			<div id="slideBox" class="slideBox">
+				
+				<div class="bd">
+					<ul>
+						<li><a href="javascript:void(0);" target="_blank"><img class="img-responsive" src="images/1.jpg" /></a></li>
+						<li><a href="javascript:void(0);" target="_blank"><img class="img-responsive" src="images/2.jpg" /></a></li>
+						<li><a href="javascript:void(0);" target="_blank"><img class="img-responsive" src="images/3.jpg" /></a></li>
+						<li><a href="javascript:void(0);" target="_blank"><img class="img-responsive" src="images/4.jpg" /></a></li>
+					</ul>
+				</div>
+
+				<div class="hd">
+					<ul></ul>
+				</div>
+				<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+				<a class="prev" href="javascript:void(0)"></a>
+				<a class="next" href="javascript:void(0)"></a>
+
 			</div>
 			<h5>大事记</h5>
 			<ul class="list-group">
@@ -113,6 +88,7 @@
 	    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
 	    <!-- Include all compiled plugins (below), or include individual files as needed -->
 	    <script src="javascripts/bootstrap.js"></script>
+	    <script src="javascripts/TouchSlide.1.1.js"></script>
 	    <script>
 	    $(document).ready(function() {
 	    	$(".list-group>li.list-group-item").click(function(event) {
@@ -123,6 +99,8 @@
 	    			$("."+li_id).slideUp();
 	    		}
 	    	});
+
+	    	TouchSlide({slideCell:"#slideBox",titCell:".hd ul",mainCell:".bd ul",autoPage:true});
 	    });
 	    
 	    </script>

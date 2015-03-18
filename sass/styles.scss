@@ -20,6 +20,89 @@ body {
     }
 }
 
+/* 幻灯css */
+.slideBox{ 
+	width:100%;
+	overflow:hidden; 
+	position:relative;  
+	margin: 0 auto;
+	background: #ddd;
+	.hd{ 
+		height:15px; 
+		overflow:hidden; 
+		bottom:5px;
+		left:50%;
+		margin-left: -34px; 
+		z-index:1; 
+		position:absolute;
+		ul{ 
+			overflow:hidden; 
+			zoom:1; 
+			float:left;  
+			li{ 
+				float:left; 
+				margin-right:2px;  
+				width:15px; 
+				height:15px; 
+				line-height:14px; 
+				text-align:center; 
+				background:#fff; 
+				cursor:pointer; 
+				&.on{
+					background:#ddd; 
+					color:#fff;
+				}
+			}
+		}
+	}
+
+	.bd{ 
+		position:relative; 
+		height:100%; 
+		z-index:0;   
+		li{ 
+			zoom:1; 
+			vertical-align:middle; 
+		}
+		img{ 
+			margin: 0 auto; 
+		}
+	}
+
+	ul{
+		margin-bottom: 0;
+	}
+
+	.prev{
+		position:absolute; 
+		left:3%; 
+		top:50%; 
+		margin-top:-25px; 
+		display:block; 
+		width:32px; 
+		height:40px; 
+		background:url(../images/slider-arrow.png) -110px 5px no-repeat; 
+		filter:alpha(opacity=50);
+		opacity:0.5;
+		&:hover{
+			filter:alpha(opacity=100);
+			opacity:1;
+		}
+	}
+
+	.next{
+		@extend .prev;
+		left:auto; 
+		right:3%; 
+		background-position:8px 5px; 
+		&:hover{
+			@extend .prev:hover;
+		}
+	}
+
+	.prevStop, .nextStop{ display:none;  }
+}
+
 .parallax-window {
     min-height: 400px;
     background: transparent;

@@ -7546,7 +7546,8 @@ button.close {
 /* line 29, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
 .carousel-inner > .active,
 .carousel-inner > .next,
-.carousel-inner > .prev {
+.carousel-inner > .prev,
+.slideBox .carousel-inner > .next {
   display: block;
 }
 /* line 35, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
@@ -7555,7 +7556,8 @@ button.close {
 }
 /* line 39, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
 .carousel-inner > .next,
-.carousel-inner > .prev {
+.carousel-inner > .prev,
+.slideBox .carousel-inner > .next {
   position: absolute;
   top: 0;
   width: 100%;
@@ -7565,12 +7567,13 @@ button.close {
   left: 100%;
 }
 /* line 49, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
-.carousel-inner > .prev {
+.carousel-inner > .prev, .slideBox .carousel-inner > .next {
   left: -100%;
 }
 /* line 52, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
 .carousel-inner > .next.left,
-.carousel-inner > .prev.right {
+.carousel-inner > .prev.right,
+.slideBox .carousel-inner > .right.next {
   left: 0;
 }
 /* line 57, ../../工作tools/compass.app/lib/ruby/compass_extensions/bootstrap-sass-3.2.0.1/assets/stylesheets/bootstrap/_carousel.scss */
@@ -8107,7 +8110,96 @@ body {
   color: black;
 }
 
-/* line 23, ../sass/styles.scss */
+/* 幻灯css */
+/* line 24, ../sass/styles.scss */
+.slideBox {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+  background: #ddd;
+}
+/* line 30, ../sass/styles.scss */
+.slideBox .hd {
+  height: 15px;
+  overflow: hidden;
+  bottom: 5px;
+  left: 50%;
+  margin-left: -34px;
+  z-index: 1;
+  position: absolute;
+}
+/* line 38, ../sass/styles.scss */
+.slideBox .hd ul {
+  overflow: hidden;
+  zoom: 1;
+  float: left;
+}
+/* line 42, ../sass/styles.scss */
+.slideBox .hd ul li {
+  float: left;
+  margin-right: 2px;
+  width: 15px;
+  height: 15px;
+  line-height: 14px;
+  text-align: center;
+  background: #fff;
+  cursor: pointer;
+}
+/* line 51, ../sass/styles.scss */
+.slideBox .hd ul li.on {
+  background: #ddd;
+  color: #fff;
+}
+/* line 59, ../sass/styles.scss */
+.slideBox .bd {
+  position: relative;
+  height: 100%;
+  z-index: 0;
+}
+/* line 63, ../sass/styles.scss */
+.slideBox .bd li {
+  zoom: 1;
+  vertical-align: middle;
+}
+/* line 67, ../sass/styles.scss */
+.slideBox .bd img {
+  margin: 0 auto;
+}
+/* line 72, ../sass/styles.scss */
+.slideBox ul {
+  margin-bottom: 0;
+}
+/* line 76, ../sass/styles.scss */
+.slideBox .prev, .slideBox .next {
+  position: absolute;
+  left: 3%;
+  top: 50%;
+  margin-top: -25px;
+  display: block;
+  width: 32px;
+  height: 40px;
+  background: url(../images/slider-arrow.png) -110px 5px no-repeat;
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+}
+/* line 87, ../sass/styles.scss */
+.slideBox .prev:hover, .slideBox .next:hover {
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+/* line 93, ../sass/styles.scss */
+.slideBox .next {
+  left: auto;
+  right: 3%;
+  background-position: 8px 5px;
+}
+/* line 103, ../sass/styles.scss */
+.slideBox .prevStop, .slideBox .nextStop {
+  display: none;
+}
+
+/* line 106, ../sass/styles.scss */
 .parallax-window {
   min-height: 400px;
   background: transparent;
