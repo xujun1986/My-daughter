@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Light-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/console.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/farmerboy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon_huang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/fonts/fontawesome-webfont.eot縱=4.0.3.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/fonts/fontawesome-webfont.ttf縱=4.0.3.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/fonts/fontawesome-webfont.woff縱=4.0.3.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/girl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/header-background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/into-the-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-console.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-farmerboy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-girl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-intothelight.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-origami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/modals/m-retrocam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/origami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/overlay-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/profilepic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/portfolio/retrocam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_images/testimonials-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/font-awesome/fonts/fontawesome-webfont.svg縱=4.0.3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fontello/css/fontello.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/jquery.fittext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/magnific-popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_css/media-queries.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dahuang_js/waypoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xujun1986.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,12 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37308535">
-              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+            <state vertical-scroll-proportion="-14.0">
+              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="huang.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/huang.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.54285717">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,6 +50,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/huang.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -229,6 +150,8 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -282,32 +205,38 @@
       <option name="project" value="LOCAL" />
       <updated>1435897179673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="close a tag">
+      <created>1435900165125</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1435900165125</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="-8" width="1827" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25268513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25268513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.5019785" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.49802148" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -315,7 +244,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add dahuang" />
-    <option name="LAST_COMMIT_MESSAGE" value="add dahuang" />
+    <MESSAGE value="close a tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="close a tag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -332,9 +262,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37308535">
-          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54285717">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
