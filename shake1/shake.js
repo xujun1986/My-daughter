@@ -162,7 +162,18 @@ function shakeEventDidOccur () {
 	}else{
 		setTimeout(function(){
 			hand.className = "hand";
-			show('form');
+			var body = $("body");
+			var bh = body.height();
+			var bw = body.width();
+			$(".fullbg").css({
+				height : bh,
+				width  : bw,
+				display: "block"
+			});
+			$("#form").show(500);
+			var height = $("#form").height();
+			var t = height / 2;
+			$("#form").css('margin-top', '-' + t + 'px');
 		}, 1000);
 		//result.innerHTML = "¹§Ï²£¬Ò¡µÃ"+arr[num]+"£¡";
 	}
