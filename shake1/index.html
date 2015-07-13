@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="GBK">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0">
+    <title>摇一摇模板</title>
+    <link rel="stylesheet" href="reset.css"/>
+    <link rel="stylesheet" href="custom.css"/>
+    <script src="loading.js"></script>
+</head>
+
+<body class="shake">
+
+<div id="main">
+   <div class="">
+		<div id="hand" class="hand"></div>
+   </div>
+  <div class="btns">
+      <div class="rule_btn btn_fl btn" onclick="show('rule')"></div>
+      <a href="gift_list.html" class="my_btn btn_fr btn"></a>
+  </div>
+  <br/>
+</div>
+<!-- 活动规则 弹窗 start-->
+<div class="open-win" id="rule">
+    <div class="hd">
+        <h3>活动规则</h3>
+        <a href="javascript:void(0)" class="win-close" onclick="mask_hide('rule')">关闭</a>
+    </div>
+    <p>
+        1.抽奖获得的礼品直接到炎华兄弟服务咨询中心领取； <br/>
+        2.炎华兄弟长年班现金券可在规定的期限内直接在原学费基础上递减相应的现金数额； <br/>
+        3.抽奖获得炎华兄弟长年班200元以上现金券、黄金时代贵宾周卡，须进行相关登记； <br/>
+        4.4.炎华兄弟长年班现金券可在规定的期限内直接在原学费基础上递减 <br/>
+    </p>
+</div>
+<!-- 活动规则 弹窗 end-->
+<!-- 表单 弹窗 start-->
+<div class="open-win" id="form">
+<!-- 表单 弹窗 end-->
+<!-- 中奖 弹窗 start-->
+<div class="open-win" id="gift" style="padding-bottom: 0">
+    <div class="hd" style="height: 0;">
+        <a href="javascript:void(0)" class="win-close" onclick="mask_hide('gift')">关闭</a>
+    </div>
+    <img src="gift.jpg" alt=""/>
+</div>
+<!-- 中奖 弹窗 end-->
+<div class="fullbg"></div>
+<script src="zepto.min.js"></script>
+<script src="shake.js"></script>
+
+</body>
+</html>
