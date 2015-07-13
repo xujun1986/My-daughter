@@ -154,14 +154,13 @@ function shakeEventDidOccur () {
 	var result = document.getElementById("result");
 	var hand = document.getElementById("hand");
 	hand.className = "hand hand-animate";
-	var arr = ['妹子一枚','福利图片一套','码农笔记一本','土豪金一台','未中奖'];
+	var arr = ['1','2','3','4','5'];
 	var num = Math.floor(Math.random()*4);
 	console.log(arr[num]);
-	if(arr[num] == '未中奖'){
+	if(arr[num] == '1'){
 		window.location.href = 'no_gift.html'
 	}else{
 		setTimeout(function(){
-			result.className = "result result-show";
 			hand.className = "hand";
 			show('form');
 		}, 1000);
