@@ -156,7 +156,7 @@ function shakeEventDidOccur () {
 	hand.className = "hand hand-animate";
 	var arr = ['1','2','3','4','5'];
 	var num = Math.floor(Math.random()*4);
-	console.log(arr[num]);
+
 	if(arr[num] == '1'){
 		setTimeout(function(){
 			hand.className = "hand";
@@ -168,6 +168,7 @@ function shakeEventDidOccur () {
 			hand.className = "hand";
 			var body = $("body");
 			var bh = body.height();
+			alert(bh);
 			var bw = body.width();
 			$(".fullbg").css({
 				height : bh,

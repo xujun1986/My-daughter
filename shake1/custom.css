@@ -12,16 +12,7 @@
 	background-size: auto 100%;
 }
 
-.hand-animate { -webkit-animation: hand_move infinite 1s; }
-
-.result { background: #393B3C; border: #2C2C2C 1px solid; box-shadow: inset #4D4F50 0 0 0 1px; border-radius: 10px; color: #fff; padding: 10px; width: 300px; opacity: 0;
-	-webkit-transition: all 1s;
-	-moz-transition: all 1s;
-	-ms-transition: all 1s;
-	-o-transition: all 1s;
-	transition: all 1s; }
-
-.result-show { opacity: 1; margin-top: 50px; }
+.hand-animate { -webkit-animation: hand_move infinite .2s; }
 
 @-webkit-keyframes hand_move {
 	0% {
