@@ -158,7 +158,11 @@ function shakeEventDidOccur () {
 	var num = Math.floor(Math.random()*4);
 	console.log(arr[num]);
 	if(arr[num] == '1'){
-		window.location.href = 'no_gift.html'
+		setTimeout(function(){
+			hand.className = "hand";
+			window.location.href = 'no_gift.html'
+		}, 1000);
+
 	}else{
 		setTimeout(function(){
 			hand.className = "hand";

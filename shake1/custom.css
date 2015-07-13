@@ -12,7 +12,7 @@
 	background-size: auto 100%;
 }
 
-.hand-animate { -webkit-animation: hand_move infinite 2s; }
+.hand-animate { -webkit-animation: hand_move infinite 1s; }
 
 .result { background: #393B3C; border: #2C2C2C 1px solid; box-shadow: inset #4D4F50 0 0 0 1px; border-radius: 10px; color: #fff; padding: 10px; width: 300px; opacity: 0;
 	-webkit-transition: all 1s;
@@ -266,18 +266,6 @@
 	line-height: 36px;
 }
 
-.more_btn {
-	display       : block;
-	margin        : 20px auto 0 auto;
-	width         : 85px;
-	height        : 33px;
-	border-radius : 5px;
-	background: url("btn_back.png") no-repeat;
-	background-size: 100% auto;
-	color         : #e95838;
-	text-align    : center;
-	line-height   : 33px;
-}
 
 .operate{
 	width: 80%;
