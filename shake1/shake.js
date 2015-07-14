@@ -166,13 +166,11 @@ function shakeEventDidOccur () {
 	}else{
 		setTimeout(function(){
 			hand.className = "hand";
-			var body = document.getElementsByTagName("body")[0];
-			var bh = body.style.height;
-			alert(bh);
-			var bw = body.style.width;
+			var bh = document.body.clientHeight;
+			var bw = document.body.clientWidth;
 			var mengban = document.getElementsByClassName('fullbg');
-			mengban.style.width = bw;
-			mengban.style.height=bh;
+			mengban.style.width = bw+'px';
+			mengban.style.height= bh+'px';
 			mengban.style.display = 'block';
 			//$(".fullbg").css({
 			//	height : bh,
@@ -181,9 +179,9 @@ function shakeEventDidOccur () {
 			//});
 			var form =  document.getElementById('form');
 			form.style.display = 'block';
-			var height = form.style.height;
+			var height = form.style.clientHeight;
 			var t = height / 2;
-			form.style.marginTop = '-' + t;
+			form.style.marginTop = '-' + t+'px';
 			//$("#form").css('margin-top', '-' + t + 'px');
 		}, 1000);
 		//result.innerHTML = "¹§Ï²£¬Ò¡µÃ"+arr[num]+"£¡";
