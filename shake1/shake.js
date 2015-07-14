@@ -177,7 +177,7 @@ function shakeEventDidOccur () {
 			//	width  : bw,
 			//	display: "block"
 			//});
-			var form =  document.getElementById('form')[0];
+			var form =  document.getElementById('form');
 			form.style.display = 'block';
 			var height = form.style.clientHeight;
 			var t = height / 2;
