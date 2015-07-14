@@ -166,19 +166,24 @@ function shakeEventDidOccur () {
 	}else{
 		setTimeout(function(){
 			hand.className = "hand";
-			var body = $("body");
-			var bh = body.height();
-			alert(bh);
-			var bw = body.width();
-			$(".fullbg").css({
-				height : bh,
-				width  : bw,
-				display: "block"
-			});
-			$("#form").show(500);
-			var height = $("#form").height();
+			var body = document.getElementsByTagName("body")[0];
+			var bh = body.style.height;
+			var bw = body.style.width;
+			var mengban = document.getElementsByClassName('fullbg');
+			mengban.style.width = bw;
+			mengban.style.height=bh;
+			mengban.style.display = 'block';
+			//$(".fullbg").css({
+			//	height : bh,
+			//	width  : bw,
+			//	display: "block"
+			//});
+			var form =  document.getElementById('form');
+			form.style.display = 'block';
+			var height = form.style.height;
 			var t = height / 2;
-			$("#form").css('margin-top', '-' + t + 'px');
+			form.style.marginTop = '-' + t;
+			//$("#form").css('margin-top', '-' + t + 'px');
 		}, 1000);
 		//result.innerHTML = "¹§Ï²£¬Ò¡µÃ"+arr[num]+"£¡";
 	}
