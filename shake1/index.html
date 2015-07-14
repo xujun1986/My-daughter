@@ -37,6 +37,24 @@
 <!-- 活动规则 弹窗 end-->
 <!-- 表单 弹窗 start-->
 <div class="open-win" id="form">
+    <div class="hd" style="height: 60px;margin-bottom: 10px;">
+        <h3 style="line-height: 30px;">填写正确信息，<br/>
+            作为领奖重要凭据</h3>
+    </div>
+    <label for="name">姓<i class="place_holder"></i><i class="place_holder"></i>名：</label><input type="text" id="name">
+    <div class="wrong">请正确填写姓名</div>
+    <div class="clear"></div>
+    <label for="phone">联系号码：</label><input type="text" id="phone">
+    <div class="wrong">请正确填写手机号</div>
+    <div class="clear"></div>
+    <label for="id_card">身份证号：</label><input type="text" id="id_card">
+    <div class="wrong">请正确填写身份证号</div>
+    <div class="clear"></div>
+    <div class="operate">
+        <div class="submit_btn gift_btn" onclick="mask_hide('form');show('gift')">提交</div>
+        <div class="clo_btn gift_btn" onclick="mask_hide('form');">关闭</div>
+    </div>
+</div>
 <!-- 表单 弹窗 end-->
 <!-- 中奖 弹窗 start-->
 <div class="open-win" id="gift" style="padding-bottom: 0">
