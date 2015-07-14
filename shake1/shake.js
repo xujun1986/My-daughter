@@ -168,7 +168,7 @@ function shakeEventDidOccur () {
 			hand.className = "hand";
 			var bh = document.body.clientHeight;
 			var bw = document.body.clientWidth;
-			var mengban = document.getElementsByClassName('fullbg');
+			var mengban = document.getElementsByClassName('fullbg')[0];
 			mengban.style.width = bw+'px';
 			mengban.style.height= bh+'px';
 			mengban.style.display = 'block';
@@ -177,7 +177,7 @@ function shakeEventDidOccur () {
 			//	width  : bw,
 			//	display: "block"
 			//});
-			var form =  document.getElementById('form');
+			var form =  document.getElementById('form')[0];
 			form.style.display = 'block';
 			var height = form.style.clientHeight;
 			var t = height / 2;
