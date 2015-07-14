@@ -168,6 +168,7 @@ function shakeEventDidOccur () {
 			hand.className = "hand";
 			var body = document.getElementsByTagName("body")[0];
 			var bh = body.style.height;
+			alert(bh);
 			var bw = body.style.width;
 			var mengban = document.getElementsByClassName('fullbg');
 			mengban.style.width = bw;
