@@ -179,7 +179,7 @@ function shakeEventDidOccur () {
 			//});
 			var form =  document.getElementById('form');
 			form.style.display = 'block';
-			var height = form.style.clientHeight;
+			var height = form.clientHeight;
 			var t = height / 2;
 			form.style.marginTop = '-' + t+'px';
 			//$("#form").css('margin-top', '-' + t + 'px');
