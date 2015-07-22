@@ -189,7 +189,8 @@ function play(){
 		setTimeout("show('gift')",2000);
 	}else if(get_gift == 0){
 		//不中奖 显示再来一次弹窗
-		$('.part').hide().show();
+		$(".gift").hide().show();
+		$("#circle").hide().show();
 		$("#circle").attr('class', '').addClass('icon_circle');
 		$("#circle").removeClass("anit_circle_to0").addClass("anit_circle_to0");
 		setTimeout("show('more')",2000);
