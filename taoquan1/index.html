@@ -100,7 +100,8 @@
 		<div class="clear"></div>
 		<div class="operate">
 			<div class="clo_btn gift_btn"
-			     onclick="$('#circle').attr('class', '').addClass('icon_circle');mask_hide('gift');" style="width: 49%; margin-right: 1%;">关闭</div>
+			     onclick="$('#circle').hide().show().attr('class', '').addClass('icon_circle');mask_hide('gift');"
+			style="width: 49%; margin-right: 1%;">关闭</div>
 			<a class="gift_btn gift_btn" href="gift.html">查看奖品</a>
 		</div>
 	</div>
@@ -119,7 +120,8 @@
 		<p>亲，请继续努力哦！</p>
 		<div class="clear"></div>
 		<div class="operate">
-			<div class="clo_btn gift_btn" onclick="$('#circle').attr('class', '').addClass('icon_circle');mask_hide('more');" style="width: 100%">确定</div>
+			<div class="clo_btn gift_btn" onclick="$('#circle').hide().show().attr('class',
+			'').addClass('icon_circle');mask_hide('more');" style="width: 100%">确定</div>
 		</div>
 	</div>
 	<!-- 继续努力 弹窗 end-->
