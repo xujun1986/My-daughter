@@ -188,7 +188,7 @@ function play(){
 	}else if(get_gift == 0){
 		//不中奖 显示再来一次弹窗
 		$("#circle").hide().show().attr('class', '').addClass('icon_circle');
-		$('#circle').addClass('anit_circle_to0');
+		$('#circle').hide().show().addClass('anit_circle_to0');
 		setTimeout("show('more')",2000);
 	}
 }
