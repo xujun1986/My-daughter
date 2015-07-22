@@ -185,16 +185,20 @@ function play(){
 	if(get_gift == 1){
 		//中奖 随机套取奖品，稍后显示中奖弹窗
 		$('#circle').remove();
-		$('.game_hd').append("<i class='icon_circle' id='circle'></i>")
-		$("#circle").attr('class', '').addClass('icon_circle');
-		$("#circle").addClass('anit_circle_to'+gift_num);
+		$('.game_hd').append("<i class='icon_circle' id='circle'></i>");
+		$("#circle").removeClass('anit_circle_to'+gift_num);
+		setTimeout(function() {
+			$("#circle").addClass('anit_circle_to'+gift_num);
+		},1);
 		setTimeout("show('gift')",2000);
 	}else if(get_gift == 0){
 		//不中奖 显示再来一次弹窗
 		$('#circle').remove();
-		$('.game_hd').append("<i class='icon_circle' id='circle'></i>")
-		$("#circle").attr('class', '').addClass('icon_circle');
-		$("#circle").addClass("anit_circle_to0");
+		$('.game_hd').append("<i class='icon_circle' id='circle'></i>");
+		$("#circle").removeClass('anit_circle_to0');
+		setTimeout(function() {
+			$("#circle").addClass('anit_circle_to0');
+		},1);
 		setTimeout("show('more')",2000);
 	}
 }
