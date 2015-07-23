@@ -4,7 +4,6 @@
 *   url: styleshout.com
 *   03-17-2014
 =====================================================================
-
 TOC:
 a. Webfonts and Icon fonts
 b. Reset
@@ -19,107 +18,105 @@ d. Grid
 e. Others
    1. Clearing
    2. Misc
-
 =====================================================================  */
-
 /* ------------------------------------------------------------------ */
 /* a. Webfonts and Icon fonts
- ----------------------------------rt url("fonts.css"--------- */
-
-@impo----------------------- );
+ ------------------------------------------------------------------ */
+@import url("fonts.css");
 @import url("fontello/css/fontello.css");
-@import url("font-awesome/css/font-awesome.min------------------l-.css");
+@import url("font-awesome/css/font-awesome.min.css");
 
-/* ------------------------------------as/normalize.css/
+/* ------------------------------------------------------------------
+/* b. Reset
+      Adapted from:
+      Normalize.css - https://github.com/necolas/normalize.css/
+      HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
+/* ------------------------------------------------------------------ */
 
-   5-reset-stylesheet    oot, thead, tr, ttps:ctor.com/hm/neco -----------------    HTML5 Doctor Reset - html5do blockquoteormalize.css - ht/
-/*   AdaptedN, pre,
-abtml-  from:
- ------------------------------------------------- */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+   margin         : 0;
+   padding        : 0;
+   outline        : 0;
+   border         : 0;
+   background     : transparent;
+   vertical-align : baseline;
+   font-size      : 100%;
+}
 
-html, body, d-----------
-   /* b. Resetb
-   iv, span, object, iframe,,h1, h2, h3, h4, h5, h6, pr, address, cite, code,
-   del, dfn, em, img, ins, kbd, q, samp,
-   small, strong, sub, sup, var,
-   b, i,
-   dl, dt, dd, ol, ul, li,
-   fieldset, form, label, legend,
-   table, caption, tbody, tf//github.coh, td,
-   article, aside, canvas, details, figcaption, figure,
-   footer, header, hgroup, menu, nav, section, summary,
-   time, mark, audio, video {
-	  margin: 0;
-	  padding: 0;
-	  outline: 0;
-	  border: 0;
-	  background: transparent;
-	  vertical-align: baseline;
-	  font-size: 100%;
-   }
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+   display : block;
+}
 
-   article,aside,details,figcaption,figure,
-   footer,header,hgroup,menu,nav,section {
-	  display: block;
-   }
+audio,
+canvas,
+video {
+   display : inline-block;
+}
 
-   audio,
-   canvas,
-   video {
-	  display: inline-block;
-   }
+audio:not([controls]) {
+   display : none;
+   height  : 0;
+}
 
-   audio:not([controls]) {
-	  display: none;
-	  height: 0;
-   }
+[hidden] {
+   display : none;
+}
 
-   [hidden] { display: none; }
+code, kbd, pre, samp {
+   font-size   : 1em;
+   font-family : monospace, serif;
+}
 
-   code, kbd, pre, samp {
-	  font-size: 1em;
-	  font-family: monospace, serif;
-   }
+pre {
+   white-space : pre;
+   white-space : pre-wrap;
+   word-wrap   : break-word;
+}
 
-   pre {
-	  white-space: pre;
-	  white-space: pre-wrap;
-	  word-wrap: break-word;
-   }
+blockquote:before, blockquote:after,
+q:before, q:after {
+   content : '';
+   content : none;
+}
 
-   blockquote, q { quotes: &#8220 &#8220; }
+ins {
+   background-color : #ff9;
+   color            : #000;
+   text-decoration  : none;
+}
 
-   blockquote:before, blockquote:after,
-   q:before, q:after {
-	  content: '';
-	  content: none;
-   }
+mark {
+   background-color : #A7F4F6;
+   color            : #555;
+}
 
-   ins {
-	  background-color: #ff9;
-	  color: #000;
-	  text-decoration: none;
-   }
+del {
+   text-decoration : line-through;
+}
 
-   mark {
-	  background-color: #A7F4F6;
-	  color: #555;
-   }
+abbr[title], dfn[title] {
+   border-bottom : 1px dotted;
+   cursor        : help;
+}
 
-   del { text-decoration: line-through; }
+table {
+   border-spacing  : 0;
+   border-collapse : collapse;
+}
 
-   abbr[title], dfn[title] {
-	  border-bottom: 1px dotted;
-	  cursor: help;
-   }
-
-   table {
-	  border-spacing: 0;
-	  border-collapse: collapse;
-   }
-
-
-   /* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
       Adapted from:
       Skeleton CSS Framework - http://www.getskeleton.com/
@@ -143,14 +140,14 @@ html {
 
 body {
    background: #fff;
-   olor            : #838C95;
+   color                    : #838C95;
    font-weight: normal;
-   fontline-height : 30 pfont-family : 'opensans-regular', sans-serif;
-   x;
-   c -size         : 15px;
+   font-size                : 15px;
+   font-family              : 'opensans-regular', sans-serif;
+   line-height              : 30px;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
-	-webkit-text-size-adjust: 100%;
+   -webkit-text-size-adjust : 100%;
 }
 
 /*  2. Typography
@@ -254,23 +251,23 @@ blockquote cite a:visited {
 /* --------------------------------------------------------------------- */
 .pull-quote {
    position: relative;
-	padding: 18px 30px 18px 0px;
+   padding : 18px 30px 18px 0px;
 }
 .pull-quote:before,
 .pull-quote:after {
-	position: absolute;
+   position    : absolute;
    height      : 1em;
-	font-size: 80px;
+   font-size   : 80px;
    font-family : Arial, Sans-Serif;
    opacity     : 0.45;
 }
 .pull-quote:before {
-	top:  33px;
-	left: 0;
+   top     : 33px;
+   left    : 0;
    content : "\201C";
 }
 .pull-quote:after {
-	right: 0;
+   right   : 0;
    bottom  : -33px;
    content : '\201D';
 }
@@ -284,7 +281,7 @@ blockquote cite a:visited {
 /* Abbreviations */
 abbr {
    color          : gray;
-	text-transform: lowercase;
+   text-transform : lowercase;
    letter-spacing : .5px;
    font-variant   : small-caps;
    font-family    : 'opensans-bold', sans-serif;
@@ -293,11 +290,11 @@ abbr:hover { cursor: help; }
 
 /* drop cap */
 .drop-cap:first-letter {
-	float: left;
-	margin: 0;
-	padding: 14px 6px 0 0;
-	background: transparent;
-	color: inherit;
+   float       : left;
+   margin      : 0;
+   padding     : 14px 6px 0 0;
+   background  : transparent;
+   color       : inherit;
    text-indent : 0;
    font-size   : 84px;
    font-family : /* Copperplate */ 'opensans-bold', sans-serif;
@@ -355,11 +352,9 @@ li p { }
 
 /* ---------------------------------------------------------------------
 /*  Stats Tab Markup
-
     <ul class="stats-tabs">
 		<li><a href="#">[value]<b>[name]</b></a></li>
 	 </ul>
-
     Extend this object into your markup.
 /*
 /* --------------------------------------------------------------------- */
@@ -368,18 +363,18 @@ li p { }
    padding : 0;
 }
 .stats-tabs li {
-	display: inline-block;
-	margin: 0 10px 18px 0;
-	padding: 0 10px 0 0;
-	border-right: 1px solid #ccc;
+   display      : inline-block;
+   margin       : 0 10px 18px 0;
+   padding      : 0 10px 0 0;
+   border-right : 1px solid #ccc;
 }
 .stats-tabs li:last-child {
-	margin: 0;
-	padding: 0;
-	border: none;
+   margin  : 0;
+   padding : 0;
+   border  : none;
 }
 .stats-tabs li a {
-	display: inline-block;
+   display     : inline-block;
    border      : none;
    color       : #313131;
    font-size   : 22px;
@@ -389,10 +384,10 @@ li p { }
    color:#11ABB0;
 }
 .stats-tabs li a b {
-	display: block;
-	margin: 6px 0 0 0;
+   display     : block;
+   margin      : 6px 0 0 0;
    color       : #8B9798;
-	font-size: 13px;
+   font-size   : 13px;
    font-family : 'opensans-regular', sans-serif;
 }
 
@@ -404,37 +399,37 @@ dd { margin: 0 0 0 20px; }
 /* Lining Definition Style Markup */
 .lining dt,
 .lining dd {
-	display: inline;
-	margin: 0;
+   display : inline;
+   margin  : 0;
 }
 .lining dt + dt:before,
 .lining dd + dt:before {
-	content: "\A";
-	white-space: pre;
+   content     : "\A";
+   white-space : pre;
 }
 .lining dd + dd:before {
-	content: ", ";
+   content : ", ";
 }
 .lining dd:before {
-	margin-left: -0.2em;
-   content : ": ";
+   margin-left : -0.2em;
+   content     : ": ";
 }
 
 /* Dictionary Definition Style Markup */
 .dictionary-style dt {
-	display: inline;
-	counter-reset: definitions;
+   display       : inline;
+   counter-reset : definitions;
 }
 .dictionary-style dt + dt:before {
-	margin-left: -0.2em;
-   content : ", ";
+   margin-left : -0.2em;
+   content     : ", ";
 }
 .dictionary-style dd {
-	display: block;
-	counter-increment: definitions;
+   display           : block;
+   counter-increment : definitions;
 }
 .dictionary-style dd:before {
-	content: counter(definitions, decimal) ". ";
+   content : counter(definitions, decimal) ". ";
 }
 
 /* Pagination */
@@ -459,8 +454,8 @@ dd { margin: 0 0 0 20px; }
    background-color      : #E6E8EB;
    color                 : #6E757C;
    font                  : 15px/18px 'opensans-bold', sans-serif;
-	-webkit-transition: all 200ms ease-in-out;
-	-moz-transition: all 200ms ease-in-out;
+   -webkit-transition    : all 200ms ease-in-out;
+   -moz-transition       : all 200ms ease-in-out;
 
    -ms-transition        : all 200ms ease-in-out;
    -o-transition         : all 200ms ease-in-out;
@@ -479,7 +474,7 @@ dd { margin: 0 0 0 20px; }
 .pagination .inactive,
 .pagination .inactive:hover {
    background-color: #E6E8EB;
-	color: #A9ADB2;
+   color : #A9ADB2;
 }
 .pagination .prev, .pagination .next {}
 
@@ -516,7 +511,7 @@ input[type="button"] {
    font                  : 16px/30px 'opensans-bold', sans-serif;
    cursor                : pointer;
    -webkit-transition    : all .2s ease-in-out;
-	-moz-transition: all .2s ease-in-out;
+   -moz-transition       : all .2s ease-in-out;
 
    -ms-transition        : all .2s ease-in-out;
    -o-transition         : all .2s ease-in-out;
@@ -547,17 +542,17 @@ button.full-width,
 input[type="submit"].full-width,
 input[type="reset"].full-width,
 input[type="button"].full-width {
-	padding-right: 0 !important;
-   padding-left : 0 !important;
-   width        : 100%;
-	text-align: center;
+   padding-right : 0 !important;
+   padding-left  : 0 !important;
+   width         : 100%;
+   text-align    : center;
 }
 
 /* Fix for odd Mozilla border & padding issues */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
-    padding: 0;
-   border : 0;
+   padding : 0;
+   border  : 0;
 }
 
 
@@ -578,7 +573,7 @@ select {
    max-width      : 100%;
    outline        : none;
    border         : 0;
-	background: #D3D9D9;
+   background     : #D3D9D9;
    color          : #647373;
    vertical-align : middle;
    font-size      : 15px;
@@ -603,19 +598,19 @@ textarea { min-height: 220px; }
 label,
 legend {
    display : block;
-	margin: 12px 0;
+   margin  : 12px 0;
    color: #3d4145;
    font    : 16px/24px 'opensans-bold', sans-serif;
 }
 label span,
 legend span {
-	color: #8B9798;
+   color : #8B9798;
    font: 14px/24px 'opensans-regular', sans-serif;
 }
 
 input[type="checkbox"],
 input[type="radio"] {
-    color: #737373;
+   color     : #737373;
    font-size : 15px;
 }
 
@@ -648,11 +643,11 @@ input[type="checkbox"] { display: inline; }
 /* row clearing */
 .row:before,
 .row:after {
-    display: table;
+   display : table;
    content : " ";
 }
 .row:after {
-    clear: both;
+   clear : both;
 }
 
 .column, .columns {
@@ -662,8 +657,8 @@ input[type="checkbox"] { display: inline; }
    min-height: 1px;
 }
 .column.centered, .columns.centered  {
-    float: none;
-    margin: 0 auto;
+   float  : none;
+   margin : 0 auto;
 }
 
 /* removed gutters */
@@ -762,16 +757,16 @@ properly.
 @media only screen and (max-width: 767px) {
 
    .row {
-	   margin: 0 auto;
+      margin  : 0 auto;
       padding : 0;
       width   : 460px;
-	}
+   }
    .column, .columns {
-	   float: none;
-	   margin-right: 0;
-      margin-left : 0;
-      padding     : 0 30px;
-      width       : auto !important;
+      float        : none;
+      margin-right : 0;
+      margin-left  : 0;
+      padding      : 0 30px;
+      width        : auto !important;
    }
 
    .row .row {
@@ -823,11 +818,11 @@ properly.
 
 .cf:before,
 .cf:after {
-    display: table;
+   display : table;
    content : " ";
 }
 .cf:after {
-    clear: both;
+   clear : both;
 }
 
 /*  2. Misc -------------------------------------------------------- */
@@ -843,11 +838,7 @@ properly.
 .pull-left    { float: left !important; }
 .pull-right   { float: right !important; }
 .align-center {
-	margin-right: auto !important;
-   margin-left : auto !important;
-	text-align: center !important;
+   margin-right : auto !important;
+   margin-left  : auto !important;
+   text-align   : center !important;
 }
-
-
-
-
