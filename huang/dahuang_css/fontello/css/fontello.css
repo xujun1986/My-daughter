@@ -20,28 +20,28 @@
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
- 
   display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
   margin-right: .2em;
+     margin-left     : .2em;
+     width           : 1em;
+ 
   text-align: center;
+     text-decoration : inherit;
+     text-transform  : none;
+     font-weight     : normal;
+     font-style      : normal;
   /* opacity: .8; */
  
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
-  text-transform: none;
+     font-family     : "fontello";
      
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
  
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
-  margin-left: .2em;
+     speak           : none;
  
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
