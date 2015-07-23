@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="revert some image folder&#10;">
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\favicon_huang.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\TouchSlide.1.1.js" afterPath="$PROJECT_DIR$/js/TouchSlide.1.1.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\backgroundVideo.min.js" afterPath="$PROJECT_DIR$/js/backgroundVideo.min.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap-sprockets.js" afterPath="$PROJECT_DIR$/js/bootstrap-sprockets.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\affix.js" afterPath="$PROJECT_DIR$/js/bootstrap/affix.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\alert.js" afterPath="$PROJECT_DIR$/js/bootstrap/alert.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\button.js" afterPath="$PROJECT_DIR$/js/bootstrap/button.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\carousel.js" afterPath="$PROJECT_DIR$/js/bootstrap/carousel.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\collapse.js" afterPath="$PROJECT_DIR$/js/bootstrap/collapse.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\dropdown.js" afterPath="$PROJECT_DIR$/js/bootstrap/dropdown.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\modal.js" afterPath="$PROJECT_DIR$/js/bootstrap/modal.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\popover.js" afterPath="$PROJECT_DIR$/js/bootstrap/popover.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\scrollspy.js" afterPath="$PROJECT_DIR$/js/bootstrap/scrollspy.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\tab.js" afterPath="$PROJECT_DIR$/js/bootstrap/tab.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\tooltip.js" afterPath="$PROJECT_DIR$/js/bootstrap/tooltip.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\bootstrap\transition.js" afterPath="$PROJECT_DIR$/js/bootstrap/transition.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\jquery.SuperSlide.2.1.1.js" afterPath="$PROJECT_DIR$/js/jquery.SuperSlide.2.1.1.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\javascripts\parallax.min.js" afterPath="$PROJECT_DIR$/js/parallax.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article.html" afterPath="$PROJECT_DIR$/article.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
@@ -23,20 +45,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/3.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/4.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="5.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/5.jpg">
           <provider selected="true" editor-type-id="images">
@@ -61,11 +69,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2983051">
+            <state vertical-scroll-proportion="-6.5185184">
               <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="http_cdn.bootcss.com_jquery_1.11.1_jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.WebStorm10/system/extLibs/http_cdn.bootcss.com_jquery_1.11.1_jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14915255">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -171,15 +211,13 @@
               <option name="myItemId" value="xujun1986.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -189,10 +227,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -481,7 +515,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437630692758</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="revert some image folder&#10;">
+      <created>1437630925974</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1437630925974</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -649,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="783" column="7" selection-start-line="783" selection-start-column="7" selection-end-line="783" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -663,42 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="776" column="3" selection-start-line="776" selection-start-column="3" selection-end-line="779" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="776" column="3" selection-start-line="776" selection-start-column="3" selection-end-line="779" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="776" column="3" selection-start-line="776" selection-start-column="3" selection-end-line="779" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -723,20 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6117647">
           <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="783" column="7" selection-start-line="783" selection-start-column="7" selection-end-line="783" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -833,8 +817,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2983051">
+        <state vertical-scroll-proportion="-6.5185184">
           <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebStorm10/system/extLibs/http_cdn.bootcss.com_jquery_1.11.1_jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14915255">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding />
         </state>
       </provider>
