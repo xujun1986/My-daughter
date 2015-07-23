@@ -1,63 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\header-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\overlay-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\console.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\farmerboy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\girl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\into-the-light.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\judah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-console.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-farmerboy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-girl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-intothelight.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-judah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-origami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-retrocam.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\origami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\retrocam.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\profilepic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\testimonials-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\slider-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\symphony.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\taoquan.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\base-loading.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\bg_game.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_02.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_03.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_04.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_05.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_06.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\rule_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\spt.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\wrong.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\zepto.min.js" afterPath="" />
+    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="shake demo&#10;">
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\close.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\gift.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\gift.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\gift_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\gift_list.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\hand.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\li_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\loading.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\more_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\no_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\no_gift.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\rule_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\shake.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\tit_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\wrong.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\shake1\zepto.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
@@ -83,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -92,6 +56,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="willkaxu" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,6 +83,7 @@
         <option value="$PROJECT_DIR$/taoquan6/index.html" />
         <option value="$PROJECT_DIR$/taoquan9/index.html" />
         <option value="$PROJECT_DIR$/taoquanA/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -153,6 +123,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,20 +152,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shake1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -202,7 +159,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,7 +400,19 @@
       <option name="project" value="LOCAL" />
       <updated>1437559865504</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="shake demo&#10;">
+      <created>1437618519980</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1437618519980</updated>
+    </task>
+    <task id="LOCAL-00031" summary="shake demo&#10;">
+      <created>1437629046844</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1437629046844</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -452,11 +420,11 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27247033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27529678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.522329" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.52459013" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.477671" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.47540984" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.49802148" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -484,18 +452,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="add dahuang" />
     <MESSAGE value="close a tag" />
     <MESSAGE value="add font to site" />
     <MESSAGE value="add jquery library to site" />
     <MESSAGE value="shake demo&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="shake demo&#10;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dahuang_css/fontello/css/fontello.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -507,20 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="783" column="7" selection-start-line="783" selection-start-column="7" selection-end-line="783" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shake1/shake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shake1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -734,24 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shake1/shake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="182" column="31" selection-start-line="182" selection-start-column="31" selection-end-line="182" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shake1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.851852">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
