@@ -1,11 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="opimise some file&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huang/dahuang_images/header-background.jpg" afterPath="$PROJECT_DIR$/huang/dahuang_images/header-background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huang/dahuang_css/default.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/default.css" />
+    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="fix font error">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profile/profile_js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profile/profile_css/layout.css" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\css\styles.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\init.js" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\default.css" afterPath="$PROJECT_DIR$/profile/profile_css/default.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/profile/profile_css/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fontello\css\fontello.css" afterPath="$PROJECT_DIR$/profile/profile_css/fontello/css/fontello.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fontello\font\fontello.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fontello/font/fontello.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fontello\font\fontello.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fontello/font/fontello.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fontello\font\fontello.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fontello/font/fontello.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fontello\font\fontello.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fontello/font/fontello.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts.css" afterPath="$PROJECT_DIR$/profile/profile_css/fonts.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Bold-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Bold-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Bold-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Italic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Italic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Italic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Light-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Light-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Light-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Light-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Light-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Light-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Light-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Light-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Regular-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Regular-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Regular-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.eot" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.svg" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.woff" afterPath="$PROJECT_DIR$/profile/profile_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\magnific-popup.css" afterPath="$PROJECT_DIR$/profile/profile_css/magnific-popup.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_css\media-queries.css" afterPath="$PROJECT_DIR$/profile/profile_css/media-queries.css" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\header-background.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/header-background.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\loader.gif" afterPath="$PROJECT_DIR$/profile/profile_images/loader.gif" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\overlay-bg.png" afterPath="$PROJECT_DIR$/profile/profile_images/overlay-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\coffee.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/coffee.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\console.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/console.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\farmerboy.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/farmerboy.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\girl.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/girl.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\into-the-light.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/into-the-light.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\judah.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/judah.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-coffee.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-coffee.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-console.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-console.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-farmerboy.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-farmerboy.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-girl.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-girl.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-intothelight.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-intothelight.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-judah.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-judah.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-origami.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-origami.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\modals\m-retrocam.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-retrocam.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\origami.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/origami.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\portfolio\retrocam.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/portfolio/retrocam.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\profilepic.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/profilepic.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_images\testimonials-bg.jpg" afterPath="$PROJECT_DIR$/profile/profile_images/testimonials-bg.jpg" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/profile/profile_js/jquery-1.10.2.min.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/profile/profile_js/jquery-migrate-1.2.1.min.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\jquery.fittext.js" afterPath="$PROJECT_DIR$/profile/profile_js/jquery.fittext.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\jquery.flexslider.js" afterPath="$PROJECT_DIR$/profile/profile_js/jquery.flexslider.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\magnific-popup.js" afterPath="$PROJECT_DIR$/profile/profile_js/magnific-popup.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\modernizr.js" afterPath="$PROJECT_DIR$/profile/profile_js/modernizr.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\dahuang_js\waypoints.js" afterPath="$PROJECT_DIR$/profile/profile_js/waypoints.js" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\favicon_huang.png" afterPath="$PROJECT_DIR$/profile/favicon_huang.png" />
+      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\huang\huang.html" afterPath="$PROJECT_DIR$/profile/huang.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
@@ -27,37 +124,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="7.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/7.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="huang.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huang/huang.html">
+      <file leaf-file-name="jquery.flexslider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery.flexslider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.3157895">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1027" column="20" selection-start-line="1027" selection-start-column="20" selection-end-line="1027" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/huang/dahuang_css/default.css">
+      <file leaf-file-name="jquery-1.10.2.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery-1.10.2.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7374392">
-              <caret line="798" column="0" selection-start-line="798" selection-start-column="0" selection-end-line="798" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modernizr.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huang/dahuang_js/modernizr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="44.310345">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -66,8 +148,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/huang/dahuang_css/font-awesome/css/font-awesome.min.css">
+      <file leaf-file-name="huang.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/huang.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.0">
+              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -76,47 +168,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jquery-migrate-1.2.1.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery-migrate-1.2.1.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/magnific-popup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5185184">
+            <state vertical-scroll-proportion="3.5694916">
               <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.rb">
+      <file leaf-file-name="modernizr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/modernizr.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article.html">
+      <file leaf-file-name="favicon_huang.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/favicon_huang.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="waypoints.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profile/profile_js/waypoints.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-30.0">
-              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="symphony.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/symphony.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/6.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -155,6 +268,12 @@
         <option value="$PROJECT_DIR$/article.html" />
         <option value="$PROJECT_DIR$/huang/huang.html" />
         <option value="$PROJECT_DIR$/huang/dahuang_css/default.css" />
+        <option value="$PROJECT_DIR$/huang/dahuang_css/layout.css" />
+        <option value="$PROJECT_DIR$/huang/dahuang_css/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/huang/dahuang_css/media-queries.css" />
+        <option value="$PROJECT_DIR$/huang/dahuang_js/init.js" />
+        <option value="$PROJECT_DIR$/huang/dahuang_js/jquery.flexslider.js" />
+        <option value="$PROJECT_DIR$/css/styles.css.map" />
       </list>
     </option>
   </component>
@@ -223,127 +342,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuang_js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuang_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuang_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fontello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuang_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xujun1986.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuang_css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="profile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,7 +629,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437631105478</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="fix font error">
+      <created>1437633195064</created>
+      <option name="number" value="00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1437633195064</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -638,24 +643,24 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28377613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28377613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.53363484" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.4663652" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.49576032" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -679,7 +684,8 @@
     <MESSAGE value="delete shake folder&#10;" />
     <MESSAGE value="revert some image folder&#10;" />
     <MESSAGE value="opimise some file&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="opimise some file&#10;" />
+    <MESSAGE value="fix font error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix font error" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -689,11 +695,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -704,63 +705,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/huang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/slider-arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/symphony.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/7.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang/huang.html">
+    <entry file="file://$PROJECT_DIR$/profile/huang.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
@@ -842,32 +787,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-girl.jpg">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/portfolio/modals/m-girl.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/loader.gif">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/loader.gif">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/overlay-bg.png">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/overlay-bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/profilepic.jpg">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/profilepic.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/testimonials-bg.jpg">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/testimonials-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_images/header-background.jpg">
+    <entry file="file://$PROJECT_DIR$/profile/profile_images/header-background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -917,14 +862,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5185184">
-          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -951,17 +888,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_js/modernizr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="44.310345">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_css/font-awesome/css/font-awesome.min.css">
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -969,18 +896,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/huang.html">
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3157895">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="785" column="40" selection-start-line="785" selection-start-column="40" selection-end-line="785" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/huang/dahuang_css/default.css">
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7374392">
-          <caret line="798" column="0" selection-start-line="798" selection-start-column="0" selection-end-line="798" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1041" column="0" selection-start-line="1041" selection-start-column="0" selection-end-line="1041" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="170" column="2" selection-start-line="170" selection-start-column="2" selection-end-line="170" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_css/media-queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="288" column="20" selection-start-line="288" selection-start-column="20" selection-end-line="288" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery.fittext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery.flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1027" column="20" selection-start-line="1027" selection-start-column="20" selection-end-line="1027" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery-1.10.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/jquery-migrate-1.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/magnific-popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/favicon_huang.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/profile_js/waypoints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile/huang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.0">
+          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.5694916">
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
           <folding />
         </state>
       </provider>

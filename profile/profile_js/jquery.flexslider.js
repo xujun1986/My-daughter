@@ -105,7 +105,7 @@
         }
         // MOUSEWHEEL:
         if (slider.vars.mousewheel) {
-          slider.bind('mousewheel', function(event, delta, deltaX, deltaY) {
+            slider.bind('mousewheel', function (event, delta) {
             event.preventDefault();
             var target = (delta < 0) ? slider.getTarget('next') : slider.getTarget('prev');
             slider.flexAnimate(target, slider.vars.pauseOnAction);
@@ -445,7 +445,7 @@
               }
             }
 
-            function onTouchEnd(e) {
+            function onTouchEnd() {
               // finish the touch by undoing the touch session
               el.removeEventListener('touchmove', onTouchMove, false);
 
@@ -732,7 +732,7 @@
           } else {
             slider.slides.eq(slider.currentSlide).css({ "opacity": 0, "zIndex": 1 });
             slider.slides.eq(target).css({ "opacity": 1, "zIndex": 2 });
-            slider.wrapup(dimension);
+              slider.wrapup();
           }
         }
         // SMOOTH HEIGHT:
@@ -1024,9 +1024,9 @@
   };
 
   // Ensure the slider isn't focussed if the window loses focus.
-  $( window ).blur( function ( e ) {
+    $(window).blur(function () {
     focused = false;
-  }).focus( function ( e ) {
+    }).focus(function () {
     focused = true;
   });
 

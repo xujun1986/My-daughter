@@ -80,14 +80,12 @@ code, kbd, pre, samp {
 }
 
 pre {
-   white-space : pre;
    white-space : pre-wrap;
    word-wrap   : break-word;
 }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
-   content : '';
    content : none;
 }
 
@@ -205,7 +203,7 @@ small { font-size: 11px; line-height: inherit; }
 /*	Blockquotes */
 blockquote {
    position : relative;
-   margin: 30px 0px;
+   margin : 30px 0;
    padding-left: 40px;
 }
 blockquote:before {
@@ -217,7 +215,7 @@ blockquote:before {
    font-size: 80px;
 
    font-family : arial, sans-serif;
-   line-height : 0px;
+   line-height : 0;
    opacity     : 0.45;
 }
 blockquote p {
@@ -251,7 +249,7 @@ blockquote cite a:visited {
 /* --------------------------------------------------------------------- */
 .pull-quote {
    position: relative;
-   padding : 18px 30px 18px 0px;
+   padding : 18px 30px 18px 0;
 }
 .pull-quote:before,
 .pull-quote:after {
@@ -282,7 +280,7 @@ blockquote cite a:visited {
 abbr {
    color          : gray;
    text-transform : lowercase;
-   letter-spacing : .5px;
+   letter-spacing : 1px;
    font-variant   : small-caps;
    font-family    : 'opensans-bold', sans-serif;
 }
@@ -484,8 +482,14 @@ img {
    max-width: 100%;
    height: auto;
 }
-img.pull-right { margin: 12px 0px 0px 18px; }
-img.pull-left { margin: 12px 18px 0px 0px; }
+
+img.pull-right {
+   margin : 12px 0 0 18px;
+}
+
+img.pull-left {
+   margin : 12px 18px 0 0;
+}
 
 /*  6. Buttons  --------------------------------------------------------- */
 
@@ -779,17 +783,49 @@ properly.
    [class*="bgrid"] [class*="column"] + [class*="column"]:last-child { float: none; }
 
    /* Offsets */
-   .row .offset-1    { margin-left: 0%; }
-   .row .offset-2    { margin-left: 0%; }
-   .row .offset-3    { margin-left: 0%; }
-   .row .offset-4    { margin-left: 0%; }
-   .row .offset-5    { margin-left: 0%; }
-   .row .offset-6    { margin-left: 0%; }
-   .row .offset-7    { margin-left: 0%; }
-   .row .offset-8    { margin-left: 0%; }
-   .row .offset-9    { margin-left: 0%; }
-   .row .offset-10   { margin-left: 0%; }
-   .row .offset-11   { margin-left: 0%; }
+   .row .offset-1 {
+      margin-left : 0;
+   }
+
+   .row .offset-2 {
+      margin-left : 0;
+   }
+
+   .row .offset-3 {
+      margin-left : 0;
+   }
+
+   .row .offset-4 {
+      margin-left : 0;
+   }
+
+   .row .offset-5 {
+      margin-left : 0;
+   }
+
+   .row .offset-6 {
+      margin-left : 0;
+   }
+
+   .row .offset-7 {
+      margin-left : 0;
+   }
+
+   .row .offset-8 {
+      margin-left : 0;
+   }
+
+   .row .offset-9 {
+      margin-left : 0;
+   }
+
+   .row .offset-10 {
+      margin-left : 0;
+   }
+
+   .row .offset-11 {
+      margin-left : 0;
+   }
 }
 
 /* mobile narrow

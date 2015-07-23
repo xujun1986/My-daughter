@@ -42,7 +42,7 @@
    }
    /* nav-wrap */
    #nav-wrap {
-      letter-spacing: 1.5px;
+      letter-spacing : 2px;
       font : 11px 'opensans-bold', sans-serif;
    }
 
@@ -105,13 +105,12 @@
       right: 0;
       width          : auto;
       background     : transparent !important;
-      letter-spacing : 1.5px;
+      letter-spacing : 2px;
       font           : 12px 'opensans-bold', sans-serif;
    }
    #nav-wrap > a {
       position         : relative;
-		position: relative;
-      top              : 0px;
+      top : 0;
       right            : 30px;
       float            : right;
       width            : 48px;
@@ -170,14 +169,12 @@
       margin              : 0 auto;
       padding             : 0 4%;
       height              : auto;
-      border-bottom: 1px solid #2D2E34;
-      border-bottom-style : dotted;
+      border-bottom : 1px dotted #2D2E34;
       text-align          : left;
    }
   
-   ul#nav li a {  
-      display: block;    
-      margin: 0;
+   ul#nav li a {
+      display : block;
       margin      : 12px 0;
       padding     : 0;
       border      : none; /* reset line-height from 48px */
@@ -244,7 +241,7 @@
    #call-to-action h1 {
       margin-bottom: 30px;
       text-align : center;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+      text-shadow : 0 1px 3px rgba(0, 0, 0, 1);
       font       : 16px/24px 'opensans-bold', sans-serif;
    }
    #call-to-action h1 span { display: block; }
@@ -264,7 +261,7 @@
    #testimonials h1 {
       margin-bottom: 30px;
       text-align : center;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+      text-shadow : 0 1px 3px rgba(0, 0, 0, 1);
       font       : 16px/24px 'opensans-bold', sans-serif;
    }
    #testimonials h1 span { display: block; }
@@ -289,7 +286,7 @@
    #contact .section-head h1 {
       margin-bottom: 30px;
       text-align : center;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+      text-shadow : 0 1px 3px rgba(0, 0, 0, 1);
       font       : 16px/24px 'opensans-bold', sans-serif;
    }  
    #contact h1 span { display: block; }
