@@ -1,116 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="delete shake folder&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/console.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/farmerboy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/favicon_huang.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/girl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/header-background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/into-the-light.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-console.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-farmerboy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-girl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-intothelight.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-origami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/modals/m-retrocam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/origami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/overlay-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/profilepic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/portfolio/retrocam.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/symphony.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/dahuang_images/testimonials-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huang/huang.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\default.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/default.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\font-awesome\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/font-awesome/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\font-awesome\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\font-awesome\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\font-awesome\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fontello\css\fontello.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/fontello/css/fontello.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fontello\font\fontello.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fontello/font/fontello.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fontello\font\fontello.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fontello/font/fontello.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fontello\font\fontello.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fontello/font/fontello.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fontello\font\fontello.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fontello/font/fontello.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-bold-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-italic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\librebaskerville\librebaskerville-regular-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Bold-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Bold-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-BoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBold-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-ExtraBoldItalic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Italic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Italic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Light-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Light-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Light-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Light-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Light-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Light-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Light-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Light-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-LightItalic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Regular-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Regular-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-Semibold-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.eot" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.svg" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.ttf" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\fonts\opensans\OpenSans-SemiboldItalic-webfont.woff" afterPath="$PROJECT_DIR$/huang/dahuang_css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\layout.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/layout.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\magnific-popup.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/magnific-popup.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_css\media-queries.css" afterPath="$PROJECT_DIR$/huang/dahuang_css/media-queries.css" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\init.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/init.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/jquery-migrate-1.2.1.min.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\jquery.fittext.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/jquery.fittext.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\jquery.flexslider.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/jquery.flexslider.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\magnific-popup.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/magnific-popup.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\modernizr.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/modernizr.js" />
-      <change type="MOVED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_js\waypoints.js" afterPath="$PROJECT_DIR$/huang/dahuang_js/waypoints.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huang.html" afterPath="$PROJECT_DIR$/huang.html" />
+    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="revert some image folder&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
@@ -132,13 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="3.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/3.jpg">
           <provider selected="true" editor-type-id="images">
@@ -171,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/huang/huang.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -180,7 +64,7 @@
       <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2972973">
+            <state vertical-scroll-proportion="0.2983051">
               <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
               <folding />
             </state>
@@ -239,6 +123,7 @@
         <option value="$PROJECT_DIR$/taoquan9/index.html" />
         <option value="$PROJECT_DIR$/taoquanA/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/sass/styles.scss" />
       </list>
     </option>
   </component>
@@ -308,6 +193,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xujun1986.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xujun1986.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -576,7 +475,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437629376167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="revert some image folder&#10;">
+      <created>1437630692758</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1437630692758</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -586,14 +491,14 @@
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28377613" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.5313737" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.5313737" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988626" sideWeight="0.46862635" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.46862635" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.49802148" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -623,7 +528,8 @@
     <MESSAGE value="add jquery library to site" />
     <MESSAGE value="shake demo&#10;" />
     <MESSAGE value="delete shake folder&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete shake folder&#10;" />
+    <MESSAGE value="revert some image folder&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert some image folder&#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -633,11 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/4.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -925,14 +826,14 @@
     <entry file="file://$PROJECT_DIR$/huang/huang.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2972973">
+        <state vertical-scroll-proportion="0.2983051">
           <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
           <folding />
         </state>
