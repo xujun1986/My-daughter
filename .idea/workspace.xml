@@ -1,63 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\header-background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\overlay-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\console.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\farmerboy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\girl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\into-the-light.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\judah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-coffee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-console.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-farmerboy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-girl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-intothelight.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-judah.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-origami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\modals\m-retrocam.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\origami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\portfolio\retrocam.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\profilepic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\dahuang_images\testimonials-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\slider-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\images\symphony.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\taoquan.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\base-loading.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\bg_game.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_01.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_02.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_03.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_04.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_05.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_06.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\gift_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\rule_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\spt.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\wrong.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\365\Desktop\xujun1986.github.io\taoquanB\zepto.min.js" afterPath="" />
+    <list default="true" readonly="true" id="30930353-d22b-4fde-8565-7e60ed3c6d98" name="Default" comment="shake demo&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xujun1986.github.io.iws" />
@@ -83,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -114,6 +59,7 @@
         <option value="$PROJECT_DIR$/taoquan6/index.html" />
         <option value="$PROJECT_DIR$/taoquan9/index.html" />
         <option value="$PROJECT_DIR$/taoquanA/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -444,7 +390,13 @@
       <option name="project" value="LOCAL" />
       <updated>1437559865504</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="shake demo&#10;">
+      <created>1437618519980</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1437618519980</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -452,16 +404,16 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27247033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27247033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.522329" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.477671" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33056995" sideWeight="0.477671" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988626" sideWeight="0.49802148" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -751,7 +703,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
